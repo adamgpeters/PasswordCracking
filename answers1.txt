@@ -1,0 +1,2 @@
+Loaded 8 password hashes with 8 different salts (md5crypt [MD5 32/64 X2])
+Remaining 7 password hashes with 7 different salts
